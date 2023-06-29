@@ -1,7 +1,7 @@
 </head>
 <body>
   <h1>Privacy Policy for Shimmer Icon Pack on Android</h1>
-  <p>Effective Date: [Insert Date]</p>
+  <p>Effective Date: 06.29.23</p>
   <p>Thank you for using the Shimmer Icon Pack on Android ("the App"), developed by [Your Company Name]. We value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect your information when you use our App. By using the App, you consent to the practices described in this Privacy Policy.</p>
 
   <h2>1. Information We Collect</h2>
